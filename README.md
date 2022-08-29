@@ -14,7 +14,7 @@ To launch the vm follow these steps:
 
 - clone this repo
   ```bash
-  $ git clone <repo-link>
+  $ git clone https://github.com/jonmahoney15/linux_kernel_programming.git
   ```
 - run vagrant up from the repo 
 
