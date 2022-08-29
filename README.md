@@ -1,6 +1,6 @@
 # Vagrant box for LKP
 
-### Prerequist
+### Prerequisite
 
 A type-two hypervisor installed locally:
 
